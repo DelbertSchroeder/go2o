@@ -2,7 +2,7 @@
 
 [![Build Status](https://cloud.drone.io/api/badges/ixre/cms/status.svg)](https://cloud.drone.io/ixre/cms)
 
-## What's Go2o? ##
+*# What's Go2o? ##
 
 Go2o is Google Go language binding domain-driven design (DDD) O2O open source implementation. Support Online Store ,
 Offline stores; multi-channel (businesses), multi-store, merchandise, snapshots, orders, sales, payment, distribution
@@ -39,7 +39,7 @@ Go2o使用领域驱动设计对业务深度抽象，支持常见的O2O应用场�
 
 感谢以下哥们和匿名捐助的朋友：
 
-- *巍
+-  巍
 - zhu***@126.com 
 - 职业码农 
 - 奋斗富三代
@@ -91,3 +91,4 @@ docker-compose up -f container/docker-compose.yaml
 ```
 
 
+ 
